@@ -1,3 +1,1 @@
-﻿simple test file
-
-changes
+﻿The Marginalia project allows you to leave comments for any article on Internet. 
